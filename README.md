@@ -2,4 +2,4 @@
 
 ![Image](./example.png)
 
-A minimal findbar with clickaway behavior floating in the top right for the zen-browser.
+a small gesturepack to add animations to trackpad specific gestures
