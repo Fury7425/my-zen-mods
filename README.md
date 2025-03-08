@@ -2,4 +2,4 @@
 
 ![Image](./example.png)
 
-a small gesturepack to add animations to trackpad specific gestures
+a small pack to add animations to trackpad specific gestures
