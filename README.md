@@ -1,8 +1,7 @@
-# Zen Trackpad Gesture
-
+# Trackpad Animation
 ![Preview](./example.png)
 
-**Zen Trackpad Gesture** is a small CSS/JS mod that adds slick animations for trackpad-based gestures like swipe and overscroll.
+**Trackpad Animation** is a small CSS mod that adds slick animations for trackpad-based gestures like swipe and overscroll.
 
 ---
 
@@ -19,13 +18,8 @@
 
 If you're using the Zen Mod system:
 
-1. Download or clone this mod into your Zen mods folder.
-2. Go to `about:settings` → Mods.
-3. Enable **Zen Trackpad Gesture** from the list.
+download through zen mods page
 
-Done! Animations will apply automatically.
-
----
 
 ### 🎨 Using CSS Mods Manually
 
