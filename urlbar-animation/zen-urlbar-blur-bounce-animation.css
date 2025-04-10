@@ -1,0 +1,11 @@
+#zen-tabbox-wrapper {
+    transition: filter 0.25s ease, transform 0.25s cubic-bezier(.46,-0.45,.34,1.69);
+    filter: none;
+    transform: scale(1);
+}
+
+:has(#urlbar:focus-within) #zen-tabbox-wrapper {
+    filter: blur(10px) brightness(0.7);
+    transform: scale(1.07);
+}
+  
