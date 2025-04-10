@@ -1,9 +1,42 @@
 # Zen Trackpad Gesture
 
-![Image](./example.png)
+![Preview](./example.png)
 
-a small pack to add animations to trackpad specific gestures 
+**Zen Trackpad Gesture** is a small CSS/JS mod that adds slick animations for trackpad-based gestures like swipe and overscroll.
 
-if using the zen mod jusg down load it.
-if you are useing css mods you add directly tobthe code. copy the css into the userchrome.css or download the css file and add 
-@import: "trackpad-animation.css" to the userchrome.
+---
+
+## ✨ Features
+
+- 🎞️ Smooth swipe animations when navigating browser history  
+- 📏 Customizable scaling and easing (cubic-bezier)  
+- 🖱️ Works beautifully with trackpad gestures like swipe left/right or pull down
+
+---
+
+## 📦 Installation
+
+### 🧭 Using Zen Mods
+
+If you're using the Zen Mod system:
+
+1. Download or clone this mod into your Zen mods folder.
+2. Go to `about:settings` → Mods.
+3. Enable **Zen Trackpad Gesture** from the list.
+
+Done! Animations will apply automatically.
+
+---
+
+### 🎨 Using CSS Mods Manually
+
+If you're using your own `userChrome.css`:
+
+#### Option 1: Copy-paste
+Copy the contents of `trackpad-animation.css` into your existing `userChrome.css`.
+
+#### Option 2: Import
+Add the following line to your `userChrome.css`:
+
+```css
+@import "trackpad-animation.css";
