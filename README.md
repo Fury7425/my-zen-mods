@@ -7,8 +7,7 @@
 ---
 
 ## ✨ Features
-
-- 🎞️ Smooth swipe animations when navigating browser history  
+  
 - 📏 Customizable scaling and easing (cubic-bezier)  
 - 🖱️ Works beautifully with trackpad gestures like swipe left/right or pull down
 
