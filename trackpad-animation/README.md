@@ -29,7 +29,7 @@ If you're using your own `userChrome.css`:
 Copy the contents of `trackpad-animation.css` into your existing `userChrome.css`.
 
 #### Option 2: Import
-Add the following line to your `userChrome.css`:
+After copying the css file to the chrome folder add the following line to your `userChrome.css`:
 
 ```css
 @import "trackpad-animation.css";
