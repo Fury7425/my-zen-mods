@@ -1,11 +1,5 @@
 [
     {
-        "property": "mod.browser.scale_enabled",
-        "label": "Enable swipe scale animation",
-        "type": "checkbox",
-        "defaultValue": true
-    },
-    {
         "property": "user-browser-scale",
         "label": "Swipe scale (e.g. 0.98 for 2%)",
         "type": "string",
