@@ -8,7 +8,7 @@
 ## ✨ Features
   
 - 📏 Customizable scaling and easing (cubic-bezier)  
-- 🖱️ Works beautifully with trackpad gestures like swipe left/right or pull down
+- 🖱️ Works beautifully with trackpad gestures like swipe left/right
 
 ---
 
